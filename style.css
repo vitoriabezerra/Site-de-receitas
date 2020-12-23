@@ -1,0 +1,95 @@
+body{
+    background-color:powderblue;
+    font-family: Verdana;
+    max-width:1000px;
+    margin: auto;
+}
+.logo{
+    border-radius: 50%;
+    border: 1px solid rgb(2, 85, 100);
+    float: left;
+}
+
+#title{
+    color:rgb(1, 65, 65);
+    text-transform: capitalize;
+    text-align: center;
+
+    
+}
+
+.subtitle{
+    color:rgb(1, 65, 65);
+    font-size: 30px;
+    text-align: center;
+}
+a{
+    text-decoration: underline;
+    color: rgb(1, 65, 65);
+    
+    
+
+}
+.post_title{
+    font-size: 25px;
+    color:rgb(5, 94, 89);
+    margin: 0;
+    margin-bottom: 15px;
+    
+    
+}
+
+.post1{
+    background-color: rgb(203, 247, 247);
+    padding: 15px;
+    border: 2px dashed rgb(2, 85, 100);
+    border-radius: 7px;
+    margin: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+    
+}
+
+.bolodecenouraimg {
+    margin-bottom: 15px;
+    width: 50%;
+    height: 50%;
+   
+}
+.part1, .part2{
+    color: rgb(50, 139, 124);
+    font-size: 18px;
+    font-style: italic;
+    margin:0;
+    text-align: left;
+
+}
+.lista1, .lista2{
+    text-align: left;
+}
+
+.part2{
+    margin-bottom: 15px;
+}
+
+.aboutme{
+    font-size: 15px;
+    color:lightseagreen;
+}
+
+.contact{
+    list-style-type: none;
+    padding-left: 180px;
+    text-align: left;
+
+}
+.topo{
+    flex-direction:row;
+    
+}
+.fotominha{
+    height: 100px;
+    width: 150px;
+    float: left;
+
+}
